@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+### `npm install`
+Run this command in root folder first to install all dependencies.
+
 
 ### `npm start`
 
