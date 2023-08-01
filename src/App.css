@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.enabled {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+
+
